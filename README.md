@@ -2,11 +2,11 @@
 
 ### 📊 Junior Data Analyst
 
-**Python | SQL | Power BI | Tableau | Excel**
+**Python | SQL | Power BI | Tableau | Excel | Looker Studio**
 
 I'm a Junior Data Analyst interested in transforming raw data into meaningful insights, reports, and interactive dashboards.
 
-Currently developing my skills in data cleaning, data analysis, SQL, Python, Power BI, Tableau, and Excel.
+Currently developing my skills in data cleaning, data analysis, SQL, Python, Power BI, Tableau, Excel, and Looker Studio.
 
 ---
 
@@ -18,17 +18,21 @@ Currently developing my skills in data cleaning, data analysis, SQL, Python, Pow
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
 </p>
+
 
 ## 📊 Data Analytics Skills
 
 - 🧹 Data Cleaning
 - 🔍 Exploratory Data Analysis
 - 🗄️ SQL Queries & Data Analysis
+- 🐍 Python for Data Analysis
 - 📊 Data Visualization
 - 📈 Dashboard Development
 - 📑 Excel Analysis
 - 💡 Business Insights
+- 📋 Reporting & KPI Analysis
 
 ---
 
@@ -46,7 +50,7 @@ Sales analysis project focused on understanding revenue, sales performance, prod
 
 ### 🛒 E-Commerce Analysis
 
-**Tools:** Python | SQL | Power BI
+**Tools:** Python | SQL | Power BI | Looker Studio
 
 Analyzing customer behavior, sales performance, products, and key business metrics.
 
@@ -56,7 +60,7 @@ Analyzing customer behavior, sales performance, products, and key business metri
 
 ### 👥 Customer Analysis
 
-**Tools:** Python | SQL | Tableau
+**Tools:** Python | SQL | Tableau | Looker Studio
 
 Customer analysis project focused on customer behavior, segmentation, and performance.
 
@@ -66,13 +70,13 @@ Customer analysis project focused on customer behavior, segmentation, and perfor
 
 ## 🎓 Learning & Development
 
-### Digital Egypt Pioneers Initiative (DEPI)
+### 🇪🇬 Digital Egypt Pioneers Initiative (DEPI)
 
 **Junior Data Analyst Track**
 
 Currently developing practical skills in:
 
-`Python` • `SQL` • `Power BI` • `Tableau` • `Excel`
+`Python` • `SQL` • `Power BI` • `Tableau` • `Excel` • `Looker Studio`
 
 ---
 
@@ -87,7 +91,7 @@ SQL / Python
    ↓
 Data Analysis
    ↓
-Power BI / Tableau
+Power BI / Tableau / Looker Studio
    ↓
 Interactive Dashboard
    ↓
