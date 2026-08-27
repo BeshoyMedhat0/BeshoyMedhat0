@@ -54,7 +54,7 @@ Sales analysis project focused on understanding revenue, sales performance, prod
 
 Analyzing customer behavior, sales performance, products, and key business metrics.
 
-> 🔗 Project coming soon
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/e-commerce-sales-analysis)
 
 ---
 
