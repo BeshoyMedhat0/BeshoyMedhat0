@@ -40,7 +40,7 @@ Currently developing my skills in data cleaning, data analysis, SQL, Python, Pow
 
 ### 📊 Sales Analysis
 
-**Tools:** Excel | Power Query
+**Tools:** SQL | Excel | Power BI
 
 Sales analysis project focused on understanding revenue, sales performance, product performance, and business trends.
 
