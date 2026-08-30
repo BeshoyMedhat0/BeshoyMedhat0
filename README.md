@@ -42,7 +42,7 @@ Currently developing my skills in data cleaning, data analysis, SQL, Python, Pow
 
 **Tools:** Excel | Power Query
 
-Sales analysis project based on the Superstore dataset, focused on data cleaning, sales performance, profitability, regional sales, and customer segments.
+Sales analysis project focused on understanding revenue, sales performance, product performance, and business trends.
 
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/superstore-sales-analysis)
 
