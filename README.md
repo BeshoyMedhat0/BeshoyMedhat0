@@ -79,20 +79,3 @@ Currently developing practical skills in:
 `Python` • `SQL` • `Power BI` • `Tableau` • `Excel` • `Looker Studio`
 
 ---
-
-## 📈 Analytics Workflow
-
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-SQL / Python
-   ↓
-Data Analysis
-   ↓
-Power BI / Tableau / Looker Studio
-   ↓
-Interactive Dashboard
-   ↓
-Business Insights
