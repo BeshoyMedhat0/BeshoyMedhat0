@@ -72,7 +72,7 @@ Customer analysis project focused on customer behavior, segmentation, and perfor
 
 ### 🇪🇬 Digital Egypt Pioneers Initiative (DEPI)
 
-** Data Analyst Track**
+**Data Analyst Track**
 
 Currently developing practical skills in:
 
