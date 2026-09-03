@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Beshoy Medhat
 
-### 📊 Junior Data Analyst
+### 📊Data Analyst
 
 **Python | SQL | Power BI | Tableau | Excel | Looker Studio**
 
-I'm a Junior Data Analyst interested in transforming raw data into meaningful insights, reports, and interactive dashboards.
+I'm a Data Analyst interested in transforming raw data into meaningful insights, reports, and interactive dashboards.
 
 Currently developing my skills in data cleaning, data analysis, SQL, Python, Power BI, Tableau, Excel, and Looker Studio.
 
@@ -72,7 +72,7 @@ Customer analysis project focused on customer behavior, segmentation, and perfor
 
 ### 🇪🇬 Digital Egypt Pioneers Initiative (DEPI)
 
-**Junior Data Analyst Track**
+** Data Analyst Track**
 
 Currently developing practical skills in:
 
