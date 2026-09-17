@@ -38,16 +38,22 @@ Currently developing my skills in data cleaning, data analysis, SQL, Python, Pow
 
 ## 🚀 Featured Projects
 
-### 📊 Sales Analysis
+### 📊 Sales Superstore – Excel Analysis
 
-**Tools:** SQL | Excel | Power BI
+**Tools:** Excel | Power Query
 
-Sales analysis project focused on understanding revenue, sales performance, product performance, and business trends.
+Sales analysis project focused on sales performance, profitability, products, regions, and customer segments.
 
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/superstore-sales-analysis)
+
+### 📊 Sample Superstore 2019 – Power BI Analysis
+
+**Tools:** Power BI | Excel | Power Query
+
+Sales analysis project focused on sales, profit, products, regions, customers, and returned orders.
+
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/Superstore)
 
----
 
 ### 🛒 E-Commerce Analysis
 
