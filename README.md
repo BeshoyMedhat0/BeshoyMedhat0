@@ -45,6 +45,7 @@ Currently developing my skills in data cleaning, data analysis, SQL, Python, Pow
 Sales analysis project focused on understanding revenue, sales performance, product performance, and business trends.
 
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/superstore-sales-analysis)
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/Superstore)
 
 ---
 
