@@ -46,11 +46,11 @@ Sales analysis project focused on sales performance, profitability, products, re
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/superstore-sales-analysis)
 
 
-### 📊 Sample Superstore 2019 – Power BI Analysis
+### 📊  Superstore  – Power BI & DAX Analysis
 
-**Tools:** Power BI | Excel | Power Query
+**Tools:** Power BI | Power Query | DAX 
 
-Sales analysis project focused on sales, profit, products, regions, customers, and returned orders.
+Sales analysis project using Power BI, Power Query, and DAX to analyze sales, profit, products, regions, and returned orders.
 
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/Superstore-)
 
