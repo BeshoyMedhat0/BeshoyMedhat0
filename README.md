@@ -52,7 +52,7 @@ Sales analysis project focused on sales performance, profitability, products, re
 
 Sales analysis project focused on sales, profit, products, regions, customers, and returned orders.
 
-> 🔗 [View Project](https://github.com/BeshoyMedhat0/Superstore)
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/Superstore-)
 
 ---
 
