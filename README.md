@@ -45,7 +45,6 @@ Sales analysis project focused on sales performance, profitability, products, re
 
 > 🔗 [View Project](https://github.com/BeshoyMedhat0/superstore-sales-analysis)
 
----
 
 ### 📊 Sample Superstore 2019 – Power BI Analysis
 
