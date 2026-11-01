@@ -66,15 +66,67 @@ Analyzing customer behavior, sales performance, products, and key business metri
 
 ---
 
-### 👥 Customer Analysis
 
-**Tools:** Python | SQL | Tableau | Looker Studio
+### ⚽ FIFA World Cup 2026 – Data Analytics
 
-Customer analysis project focused on customer behavior, segmentation, and performance.
+**Tools:** Power BI
 
-> 🔗 Project coming soon
+A data analytics project exploring World Cup teams, matches, goals, stadiums, and tournament financial information.
+
+> 🔗 [View Project](YOUR-FIFA-GITHUB-LINK)
 
 ---
+
+### 🚗 DiDi – Ride-Hailing Data Analytics
+
+**Tools:** Power BI
+
+Analyzing ride requests, trip statuses, completed and cancelled trips, revenue by city, vehicle performance, and hourly demand.
+
+> 🔗 [View Project](YOUR-DIDI-GITHUB-LINK)
+
+---
+
+### 🏠 Real Estate – Sales Analytics
+
+**Tools:** Power BI
+
+Real estate analysis focused on property sales, customer activity, branch performance, city distribution, and agent performance.
+
+> 🔗 [View Project](YOUR-REAL-ESTATE-GITHUB-LINK)
+
+---
+
+### 🏥 Hospital – Performance Analytics
+
+**Tools:** Power BI
+
+Analyzing hospital visits, revenue, patient distribution, doctor performance, and medical departments.
+
+> 🔗 [View Project](YOUR-HOSPITAL-GITHUB-LINK)
+
+---
+
+### 🏦 Banking – Performance Analytics
+
+**Tools:** Power BI
+
+Banking analysis focused on customers, accounts, balances, transactions, and loan performance.
+
+> 🔗 [View Project](YOUR-BANKING-GITHUB-LINK)
+
+---
+
+### 🛒 Carrefour – Sales Analytics
+
+**Tools:** Power BI
+
+Retail sales analysis focused on sales, profit, discounts, product performance, stores, and customer loyalty.
+
+> 🔗 [View Project](YOUR-CARREFOUR-GITHUB-LINK)
+
+---
+
 
 ## 🎓 Learning & Development
 
