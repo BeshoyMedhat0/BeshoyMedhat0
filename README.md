@@ -73,7 +73,7 @@ Analyzing customer behavior, sales performance, products, and key business metri
 
 A data analytics project exploring World Cup teams, matches, goals, stadiums, and tournament financial information.
 
-> 🔗 [View Project](YOUR-FIFA-GITHUB-LINK)
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/FIFA-World-Cup-2026-Data-Analytics/tree/main)
 
 ---
 
@@ -83,7 +83,7 @@ A data analytics project exploring World Cup teams, matches, goals, stadiums, an
 
 Analyzing ride requests, trip statuses, completed and cancelled trips, revenue by city, vehicle performance, and hourly demand.
 
-> 🔗 [View Project](YOUR-DIDI-GITHUB-LINK)
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/Didi-Ride-Hailing-Analysis/tree/main)
 
 ---
 
