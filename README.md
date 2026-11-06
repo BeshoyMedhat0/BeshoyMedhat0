@@ -103,7 +103,7 @@ Real estate analysis focused on property sales, customer activity, branch perfor
 
 Analyzing hospital visits, revenue, patient distribution, doctor performance, and medical departments.
 
-> 🔗 [View Project](YOUR-HOSPITAL-GITHUB-LINK)
+> 🔗 [View Project](https://github.com/BeshoyMedhat0/hospital-performance-analysis)
 
 ---
 
